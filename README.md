@@ -27,6 +27,10 @@ This will be our transmitter, let us name it tcp_sin_send
 
 
 
+## Running mininet
+
+Create a simple SDN Topology with 2 switches, 2 hosts and a pox controller in mininet and run mininet. Run the Pox controller and ensure we are able to ping H1 and H2 and vice-versa.
+
 
 
 
