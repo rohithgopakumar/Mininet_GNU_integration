@@ -13,6 +13,17 @@ This has been created to document my journey integration of mininet and GNU radi
 <br>
 
 
+In order to send a sine wave from GNU radio using mininet we have to follow certain steps. Firstly we have to create a GNU Flowgraph as below
+
+![image](https://github.com/user-attachments/assets/58b0f9a3-a39e-4f6f-b837-5082cfc445bb)
+This will be our reciever , let us name it tcp_recieve 
+
+
+![image](https://github.com/user-attachments/assets/135074b0-914b-407f-9252-fdfe2edf4818)
+This will be our transmitter, let us name it tcp_sin_send
+
+
+
 
 
 
