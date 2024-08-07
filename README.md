@@ -13,6 +13,8 @@ This has been created to document my journey integration of mininet and GNU radi
 <br>
 
 
+## Creating a GNU FlowGraph
+
 In order to send a sine wave from GNU radio using mininet we have to follow certain steps. Firstly we have to create a GNU Flowgraph as below
 
 ![image](https://github.com/user-attachments/assets/58b0f9a3-a39e-4f6f-b837-5082cfc445bb)
