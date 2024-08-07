@@ -4,7 +4,27 @@ Part of project which involves integration of gnu with mininet in order to be ab
 
 This has been created to document my journey integration of mininet and GNU radio.
 
+# Integrating GNU Radio and Mininet
 
+This guide provides instructions for integrating GNU Radio, a free software toolkit for learning about, building, and deploying software-defined radios, with Mininet, a network emulator that creates a virtual network with hosts, switches, controllers, and links. This integration enables the simulation of complex wireless network environments for research and development.
+
+## Prerequisites
+
+Before starting, ensure you have the following software installed:
+
+- **GNU Radio**: Version 3.7 or later
+- **Mininet**: Version 2.3.0 or later
+- **Python**: Version 2.7 or later (Note: Adjust for Python 3 if needed)
+
+## Installation
+
+### GNU Radio
+
+Follow the official GNU Radio installation guide for your operating system: [GNU Radio Installation Guide](https://wiki.gnuradio.org/index.php/InstallingGR)
+
+### Mininet
+
+Follow the official Mininet installation guide: [Mininet Installation Guide](http://mininet.org/download/)
 
 
 # COURSE 
